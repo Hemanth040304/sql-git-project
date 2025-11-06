@@ -1,4 +1,4 @@
-INSERT INTO author (name, country) VALUES
+INSERT INTO authors (name, country) VALUES
 ('J.K. Rowling', 'United Kingdom'),
 ('George R.R. Martin', 'United States'),
 ('Haruki Murakami', 'Japan');
